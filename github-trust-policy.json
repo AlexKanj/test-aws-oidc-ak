@@ -12,7 +12,7 @@
           "token.actions.githubusercontent.com:aud": "sts.amazonaws.com"
         },
         "StringLike": {
-          "token.actions.githubusercontent.com:sub": "repo:YOUR-GITHUB-USERNAME/*:*"
+          "token.actions.githubusercontent.com:sub": "repo:AlexKanj/*:*"
         }
       }
     }
